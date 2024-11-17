@@ -14,7 +14,8 @@
 
 | STT | Họ và tên | MSSV | Email |
 | :---: | --- | --- | --- |
-| 2 | Phan Huỳnh Ngọc Trâm | 22521500 | 22521500@gm.uit.edu.vn |
-| 2 | Nguyễn Duy Thắng | 22521333 | 22521333@gm.uit.edu.vn |
+| 1 | Phan Huỳnh Ngọc Trâm | 22521500 | 22521500@gm.uit.edu.vn |
 | 2 | Nguyễn Trần Duy Thiên | 22521392 | 22521392@gm.uit.edu.vn |
+| 3 | Nguyễn Duy Thắng | 22521333 | 22521333@gm.uit.edu.vn |
+
 
